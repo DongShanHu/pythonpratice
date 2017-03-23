@@ -4,7 +4,11 @@ import threading
 import time
 import copy
 from queue import Queue 
+def main():
+    print(threading.active_count())
 
+if __name__=='_main_':
+    main()
 ##def thread_job():
 ##    print('T1 start\n')
 ##    for i in range(10):
@@ -86,7 +90,7 @@ from queue import Queue
 ##    print('multithreading: ', time.time()-s_t)
 
 #lock
-
+'''
 def job1():
     global A,lock
     lock.acquire()
@@ -111,3 +115,5 @@ if __name__ == '__main__':
     t2.start()
     t1.join()
     t2.join()
+''''
+
