@@ -1,7 +1,14 @@
-# pythonpratice
-Learning python project
-0324 pandas done
+# The plan for learning python Node
 
-update everything im 2018/11/22
-there is some file add 
-such as NBACrawer
+## Learning python project
+
+[] 0324 pandas done
+
+[] update everything im 2018/11/22
+
+> > there is some file add
+> > such as NBACrawer
+
+[] 2021/10/10
+
+> > FastAPI
