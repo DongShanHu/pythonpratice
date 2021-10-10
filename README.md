@@ -2,13 +2,13 @@
 
 ## Learning python project
 
-- []0324 pandas done
+- [0324 pandas done]
 
-- [] update everything im 2018/11/22
+- [ update everything im 2018/11/22]
 
 > there is some file add
 > such as NBACrawer
 
-- []2021/10/10
+- [2021/10/10  FastAPI] 
 
-> FastAPI
+> Lerning crash FastApi
